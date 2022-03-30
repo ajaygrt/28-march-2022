@@ -1,0 +1,10 @@
+body{padding-top:30px;}
+label,input{display:block;} 
+
+
+#MyForm{
+position: relative;
+left: 550px;
+top:200px;
+font-weight: 400;
+}
